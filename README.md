@@ -11,6 +11,7 @@ Project title: Unsupervised learning for multiplex networks
 Orginality Avowal: I verify that I am the sole author of the programs contained in this repository, except where explicitly stated to the contrary - Rahin Ashraf. Date: 14/07/2024.
 
 To run the code in this repository, the following command can be executed to install all necessary packages: 
+
 `pip install networkx numpy pandas node2vec scikit-learn matplotlib scipy`
 
 Source code structure:
