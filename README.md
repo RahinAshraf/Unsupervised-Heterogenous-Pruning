@@ -12,7 +12,7 @@ Orginality Avowal: I verify that I am the sole author of the programs contained 
 
 To run the code in this repository, the following command can be executed to install all necessary packages: 
 
-`pip install networkx numpy pandas node2vec scikit-learn matplotlib scipy`
+`pip install networkx numpy pandas node2vec scikit-learn matplotlib scipy karateclub`
 
 Source code structure:
 - results: directory containing csv results for the UHP model under different tested scenarios and the respective generated plots.
