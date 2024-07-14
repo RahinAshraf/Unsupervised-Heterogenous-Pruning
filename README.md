@@ -1,4 +1,4 @@
-# Unsupervised Heterogenous Pruning
+# Unsupervised Heterogenous Pruning (UHP)
 
 This repository is for the 7CCSMPRJ MSc Individual Project module.
 
