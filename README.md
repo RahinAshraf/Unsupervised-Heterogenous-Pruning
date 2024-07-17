@@ -8,7 +8,7 @@ Student ID: 20034059
 
 Project title: Unsupervised learning for multiplex networks
 
-IMPORTANT NOTICE: I verify that I am the sole author of the programs contained in this repository, except where explicitly stated to the contrary - Rahin Ashraf. Date: 14/07/2024.
+IMPORTANT NOTICE: I verify that I am the sole author of the programs contained in this repository, except where explicitly stated otherwise. Code that has been inspired by other authors or web resources has been explicitly stated and credited in comments within the code. - Rahin Ashraf. Date: 14/07/2024.
 
 To run the code in this repository, the following command can be executed to install all necessary packages: 
 
