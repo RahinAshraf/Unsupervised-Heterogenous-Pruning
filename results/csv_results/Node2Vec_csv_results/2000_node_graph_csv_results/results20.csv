@@ -1,0 +1,11 @@
+Metric,Original,Sampled,Difference
+Number of nodes,2000,450,1550
+Number of edges,2600,417,2183
+Average node degree,2.6,1.853333333,0.746666667
+Average clustering coefficient,0,0,0
+Average path length,Graph is not connected,Graph is not connected,N/A
+Average betweenness centrality,0.003989862,0.000109746,0.003880116
+Average closeness centrality,0.109670022,0.015154824,0.044515198
+Average degree centrality,0.00130065,0.004127691,0.002827041
+Average eigenvector centrality,0.003007071,0.008250292,0.005243221
+Density,0.00130065,0.004127691,0.002827041
